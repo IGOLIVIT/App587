@@ -11,6 +11,29 @@
 		7853FD1A2C3D324C00956529 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD192C3D324C00956529 /* ContentView.swift */; };
 		7853FD1C2C3D324D00956529 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7853FD1B2C3D324D00956529 /* Assets.xcassets */; };
 		7853FD202C3D324D00956529 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7853FD1F2C3D324D00956529 /* Preview Assets.xcassets */; };
+		7853FD312C3D35E200956529 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD302C3D35E200956529 /* TabBar.swift */; };
+		7853FD332C3D35E900956529 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD322C3D35E900956529 /* LoadingView.swift */; };
+		7853FD352C3D35F200956529 /* R1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD342C3D35F200956529 /* R1.swift */; };
+		7853FD372C3D35F700956529 /* R2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD362C3D35F700956529 /* R2.swift */; };
+		7853FD392C3D35FC00956529 /* R3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD382C3D35FC00956529 /* R3.swift */; };
+		7853FD3B2C3D360100956529 /* U1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD3A2C3D360100956529 /* U1.swift */; };
+		7853FD3D2C3D360600956529 /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD3C2C3D360600956529 /* Reviews.swift */; };
+		7853FD3F2C3D360B00956529 /* Not.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD3E2C3D360B00956529 /* Not.swift */; };
+		7853FD412C3D361100956529 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7853FD402C3D361100956529 /* Launch Screen.storyboard */; };
+		7853FD432C3D361A00956529 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD422C3D361A00956529 /* CoreDataStack.swift */; };
+		7853FD452C3D362000956529 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD442C3D362000956529 /* Array.swift */; };
+		7853FD482C3D362A00956529 /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD462C3D362A00956529 /* CoreModel.xcdatamodeld */; };
+		7853FD4E2C3D36B900956529 /* AchievementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD4D2C3D36B900956529 /* AchievementsView.swift */; };
+		7853FD502C3D36C500956529 /* CompetitionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD4F2C3D36C500956529 /* CompetitionsView.swift */; };
+		7853FD522C3D36DE00956529 /* ParticipantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD512C3D36DE00956529 /* ParticipantsView.swift */; };
+		7853FD542C3D36EF00956529 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD532C3D36EF00956529 /* SettingsView.swift */; };
+		7853FD562C3D848900956529 /* AchievementsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD552C3D848900956529 /* AchievementsViewModel.swift */; };
+		7853FD592C3D884000956529 /* AddAchievent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD582C3D884000956529 /* AddAchievent.swift */; };
+		7853FD5B2C3D8F0700956529 /* CompetitionsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD5A2C3D8F0700956529 /* CompetitionsViewModel.swift */; };
+		7853FD5F2C3D922E00956529 /* AddComp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD5E2C3D922E00956529 /* AddComp.swift */; };
+		7853FD632C3D9BC300956529 /* DateConvert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD622C3D9BC300956529 /* DateConvert.swift */; };
+		7853FD652C3D9DAA00956529 /* ParticipantsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD642C3D9DAA00956529 /* ParticipantsViewModel.swift */; };
+		7853FD682C3D9F5800956529 /* AddPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FD672C3D9F5800956529 /* AddPart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +43,29 @@
 		7853FD1B2C3D324D00956529 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7853FD1D2C3D324D00956529 /* App587.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = App587.entitlements; sourceTree = "<group>"; };
 		7853FD1F2C3D324D00956529 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7853FD302C3D35E200956529 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		7853FD322C3D35E900956529 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		7853FD342C3D35F200956529 /* R1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R1.swift; sourceTree = "<group>"; };
+		7853FD362C3D35F700956529 /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
+		7853FD382C3D35FC00956529 /* R3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R3.swift; sourceTree = "<group>"; };
+		7853FD3A2C3D360100956529 /* U1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = U1.swift; sourceTree = "<group>"; };
+		7853FD3C2C3D360600956529 /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
+		7853FD3E2C3D360B00956529 /* Not.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Not.swift; sourceTree = "<group>"; };
+		7853FD402C3D361100956529 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		7853FD422C3D361A00956529 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
+		7853FD442C3D362000956529 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		7853FD472C3D362A00956529 /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
+		7853FD4D2C3D36B900956529 /* AchievementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsView.swift; sourceTree = "<group>"; };
+		7853FD4F2C3D36C500956529 /* CompetitionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompetitionsView.swift; sourceTree = "<group>"; };
+		7853FD512C3D36DE00956529 /* ParticipantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParticipantsView.swift; sourceTree = "<group>"; };
+		7853FD532C3D36EF00956529 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		7853FD552C3D848900956529 /* AchievementsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsViewModel.swift; sourceTree = "<group>"; };
+		7853FD582C3D884000956529 /* AddAchievent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAchievent.swift; sourceTree = "<group>"; };
+		7853FD5A2C3D8F0700956529 /* CompetitionsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompetitionsViewModel.swift; sourceTree = "<group>"; };
+		7853FD5E2C3D922E00956529 /* AddComp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddComp.swift; sourceTree = "<group>"; };
+		7853FD622C3D9BC300956529 /* DateConvert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateConvert.swift; sourceTree = "<group>"; };
+		7853FD642C3D9DAA00956529 /* ParticipantsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParticipantsViewModel.swift; sourceTree = "<group>"; };
+		7853FD672C3D9F5800956529 /* AddPart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +98,7 @@
 		7853FD162C3D324C00956529 /* App587 */ = {
 			isa = PBXGroup;
 			children = (
+				7853FD262C3D359D00956529 /* AllFiles */,
 				7853FD172C3D324C00956529 /* App587App.swift */,
 				7853FD192C3D324C00956529 /* ContentView.swift */,
 				7853FD1B2C3D324D00956529 /* Assets.xcassets */,
@@ -67,6 +114,156 @@
 				7853FD1F2C3D324D00956529 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7853FD262C3D359D00956529 /* AllFiles */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD2B2C3D35C700956529 /* OB */,
+				7853FD292C3D35B500956529 /* TabBar */,
+				7853FD282C3D35AC00956529 /* Extensions */,
+				7853FD272C3D35A700956529 /* Views */,
+			);
+			path = AllFiles;
+			sourceTree = "<group>";
+		};
+		7853FD272C3D35A700956529 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD4C2C3D367600956529 /* Settings */,
+				7853FD4B2C3D366F00956529 /* Participants */,
+				7853FD4A2C3D366300956529 /* Competitions */,
+				7853FD492C3D365A00956529 /* Achievements */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		7853FD282C3D35AC00956529 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD422C3D361A00956529 /* CoreDataStack.swift */,
+				7853FD442C3D362000956529 /* Array.swift */,
+				7853FD462C3D362A00956529 /* CoreModel.xcdatamodeld */,
+				7853FD622C3D9BC300956529 /* DateConvert.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		7853FD292C3D35B500956529 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD302C3D35E200956529 /* TabBar.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		7853FD2B2C3D35C700956529 /* OB */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD2F2C3D35DA00956529 /* R */,
+				7853FD2E2C3D35D500956529 /* U */,
+				7853FD2D2C3D35D100956529 /* Loading */,
+				7853FD2C2C3D35CC00956529 /* Launch */,
+			);
+			path = OB;
+			sourceTree = "<group>";
+		};
+		7853FD2C2C3D35CC00956529 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD402C3D361100956529 /* Launch Screen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		7853FD2D2C3D35D100956529 /* Loading */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD322C3D35E900956529 /* LoadingView.swift */,
+			);
+			path = Loading;
+			sourceTree = "<group>";
+		};
+		7853FD2E2C3D35D500956529 /* U */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD3A2C3D360100956529 /* U1.swift */,
+				7853FD3C2C3D360600956529 /* Reviews.swift */,
+				7853FD3E2C3D360B00956529 /* Not.swift */,
+			);
+			path = U;
+			sourceTree = "<group>";
+		};
+		7853FD2F2C3D35DA00956529 /* R */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD342C3D35F200956529 /* R1.swift */,
+				7853FD362C3D35F700956529 /* R2.swift */,
+				7853FD382C3D35FC00956529 /* R3.swift */,
+			);
+			path = R;
+			sourceTree = "<group>";
+		};
+		7853FD492C3D365A00956529 /* Achievements */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD572C3D883400956529 /* AddAchievent */,
+				7853FD4D2C3D36B900956529 /* AchievementsView.swift */,
+				7853FD552C3D848900956529 /* AchievementsViewModel.swift */,
+			);
+			path = Achievements;
+			sourceTree = "<group>";
+		};
+		7853FD4A2C3D366300956529 /* Competitions */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD5D2C3D921900956529 /* AddComp */,
+				7853FD4F2C3D36C500956529 /* CompetitionsView.swift */,
+				7853FD5A2C3D8F0700956529 /* CompetitionsViewModel.swift */,
+			);
+			path = Competitions;
+			sourceTree = "<group>";
+		};
+		7853FD4B2C3D366F00956529 /* Participants */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD662C3D9F4F00956529 /* AddPart */,
+				7853FD512C3D36DE00956529 /* ParticipantsView.swift */,
+				7853FD642C3D9DAA00956529 /* ParticipantsViewModel.swift */,
+			);
+			path = Participants;
+			sourceTree = "<group>";
+		};
+		7853FD4C2C3D367600956529 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD532C3D36EF00956529 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		7853FD572C3D883400956529 /* AddAchievent */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD582C3D884000956529 /* AddAchievent.swift */,
+			);
+			path = AddAchievent;
+			sourceTree = "<group>";
+		};
+		7853FD5D2C3D921900956529 /* AddComp */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD5E2C3D922E00956529 /* AddComp.swift */,
+			);
+			path = AddComp;
+			sourceTree = "<group>";
+		};
+		7853FD662C3D9F4F00956529 /* AddPart */ = {
+			isa = PBXGroup;
+			children = (
+				7853FD672C3D9F5800956529 /* AddPart.swift */,
+			);
+			path = AddPart;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +324,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7853FD412C3D361100956529 /* Launch Screen.storyboard in Resources */,
 				7853FD202C3D324D00956529 /* Preview Assets.xcassets in Resources */,
 				7853FD1C2C3D324D00956529 /* Assets.xcassets in Resources */,
 			);
@@ -139,8 +337,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7853FD312C3D35E200956529 /* TabBar.swift in Sources */,
+				7853FD3F2C3D360B00956529 /* Not.swift in Sources */,
+				7853FD4E2C3D36B900956529 /* AchievementsView.swift in Sources */,
+				7853FD3B2C3D360100956529 /* U1.swift in Sources */,
+				7853FD332C3D35E900956529 /* LoadingView.swift in Sources */,
+				7853FD5F2C3D922E00956529 /* AddComp.swift in Sources */,
+				7853FD542C3D36EF00956529 /* SettingsView.swift in Sources */,
 				7853FD1A2C3D324C00956529 /* ContentView.swift in Sources */,
+				7853FD352C3D35F200956529 /* R1.swift in Sources */,
+				7853FD432C3D361A00956529 /* CoreDataStack.swift in Sources */,
+				7853FD392C3D35FC00956529 /* R3.swift in Sources */,
+				7853FD632C3D9BC300956529 /* DateConvert.swift in Sources */,
+				7853FD3D2C3D360600956529 /* Reviews.swift in Sources */,
+				7853FD452C3D362000956529 /* Array.swift in Sources */,
+				7853FD5B2C3D8F0700956529 /* CompetitionsViewModel.swift in Sources */,
+				7853FD482C3D362A00956529 /* CoreModel.xcdatamodeld in Sources */,
+				7853FD682C3D9F5800956529 /* AddPart.swift in Sources */,
+				7853FD652C3D9DAA00956529 /* ParticipantsViewModel.swift in Sources */,
+				7853FD502C3D36C500956529 /* CompetitionsView.swift in Sources */,
+				7853FD592C3D884000956529 /* AddAchievent.swift in Sources */,
+				7853FD562C3D848900956529 /* AchievementsViewModel.swift in Sources */,
 				7853FD182C3D324C00956529 /* App587App.swift in Sources */,
+				7853FD522C3D36DE00956529 /* ParticipantsView.swift in Sources */,
+				7853FD372C3D35F700956529 /* R2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,17 +492,19 @@
 				DEVELOPMENT_ASSET_PATHS = "\"App587/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Race Tracker";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -290,10 +512,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App587;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,17 +531,19 @@
 				DEVELOPMENT_ASSET_PATHS = "\"App587/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Race Tracker";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -326,10 +551,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App587;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -355,6 +581,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		7853FD462C3D362A00956529 /* CoreModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				7853FD472C3D362A00956529 /* CoreModel.xcdatamodel */,
+			);
+			currentVersion = 7853FD472C3D362A00956529 /* CoreModel.xcdatamodel */;
+			name = CoreModel.xcdatamodeld;
+			path = /Users/igor/Documents/Applications/App587/App587/AllFiles/Extensions/CoreModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 7853FD0C2C3D324C00956529 /* Project object */;
 }
